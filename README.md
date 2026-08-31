@@ -1,5 +1,7 @@
 # 🛵 Food Delivery Time Predictor
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://food-delivery-predictor-az2k.onrender.com)
+
 A Machine Learning project that predicts **food delivery time in minutes** using **Linear Regression** based on factors such as distance, preparation time, courier experience, weather, traffic level, time of day, and vehicle type.
 
 The project covers the complete basic Machine Learning workflow:
